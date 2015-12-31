@@ -15,4 +15,8 @@ $ java UserInterface
 
 ****************************************
 
+Note: There is definitely a problem with the environmental tax portion/possibly the entire tax portion. Also, The formatting might be a bit off.
+
+****************************************
+
 In collaboration with Rahul Bablani and Abeed Alibhai.
